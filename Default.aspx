@@ -5,10 +5,10 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        Welcome to BIKRAM WORLD!
+        Welcome to BIKRAM AZURE WORLD! HI GUYS
     </h2>
     <p>
-        This is a test application</p>
+        This is a test application for AZURE and GITHUB dotnet</p>
     <p>
         CHECK THIS OUT</p>
 </asp:Content>
